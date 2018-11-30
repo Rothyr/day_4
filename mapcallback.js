@@ -8,10 +8,6 @@ function map(array, callback) {
   }
     console.log(arrayMod);
 }
-// console.log(arrayMod);
-
-
-
 
 
 map(words, function(word) {
